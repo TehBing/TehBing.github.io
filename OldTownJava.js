@@ -6,6 +6,9 @@
     element : '#power-puff__map' Selector
    }
  */
+window.onload =  resizeEvent(){
+}
+
 class ImageResize {
   /**
    * constructor - make image maps responsive
@@ -103,7 +106,7 @@ function offLight(){
     document.getElementById("oldtown").src = "Images/OldTownOff.png"
 }
 
-// burger
+// BURGER
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-menu");
 
