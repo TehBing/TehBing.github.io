@@ -6,8 +6,6 @@
     element : '#power-puff__map' Selector
    }
  */
-window.onload =  resizeEvent(){
-}
 
 class ImageResize {
   /**
