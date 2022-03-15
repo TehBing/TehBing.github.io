@@ -148,7 +148,7 @@ body::-webkit-scrollbar-thumb {
   width: auto;
   margin: 3%;
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 480px) {
   .nav-menu {
     left: -100%;
     flex-direction: row;
@@ -166,9 +166,9 @@ body::-webkit-scrollbar-thumb {
 
   .nav li a {
     color: #d5a419;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bolder;
-    margin: 20px;
+    margin: 10px;
     text-decoration: none;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5);
   }
