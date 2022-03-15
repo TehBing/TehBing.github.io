@@ -380,4 +380,8 @@ body::-webkit-scrollbar-thumb {
     position: relative;
     font-size: 20px;
   }
+  .left:hover,
+  .right:hover {
+    background-color: transparent;
+  }
 }
