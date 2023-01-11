@@ -24,7 +24,6 @@ class ImageResize {
     this.areaArray = Array.from(area);
 
     window.addEventListener('resize', this.resizeEvent);
-    setTimeout(this.imgMap, 500);
   }
   /**
    * getCoords - get image map coordinates
